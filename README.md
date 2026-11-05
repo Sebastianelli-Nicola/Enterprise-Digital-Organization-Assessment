@@ -11,7 +11,7 @@ Comprehensive organizational and digital audit conducted for **Polo 9 Società C
 Developed for the *Organizzazione dell'Impresa* course — M.Sc. in **Computer and Automation Engineering** at **Università Politecnica delle Marche (UNIVPM)** (A.Y. 2024/2025).
 
 > **Official Project Documentation:** 
-> * **Complete Technical Report (PDF, 25 pages):** [Relazione_Polo9.pdf](./Relazione_Polo9.pdf)
+> * **Complete Technical Report (PDF, 25 pages):** [Relazione_Polo9.pdf](./Relazione_Polo_9.pdf)
 
 ---
 
